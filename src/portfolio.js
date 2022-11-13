@@ -140,7 +140,7 @@ const educationInfo = {
       schoolName: "CareerFoundry",
       logo: require("./assets/images/."),
       subHeader: "Certification in Web Development",
-      duration: "September 2013 - April 2017",
+      duration: "Ongoing",
       desc: "Certification in advanced training for Full Stack.",
       descBullets: ["Lorem ipsum dolor sit amet, consectetur adipiscing elit"]
     }
@@ -158,7 +158,7 @@ const educationInfo = {
   ]
     [
   {
-      schoolName: "Couersea",
+      schoolName: "Coursera",
       logo: require("./assets/images/."),
       subHeader: "Google Data Analytics Specialization",
       duration: "One Month",
@@ -383,7 +383,7 @@ const podcastSection = {
 const contactInfo = {
   title: emoji("Contact Me ☎️"),
   subtitle:
-    "Discuss a project or just want to say hi? My Inbox is open for all.",
+    "Let's put on our Thinking Hats!",
   number: "+92-0000000000",
   email_address: "smatin.au0@gmail.com"
 };
